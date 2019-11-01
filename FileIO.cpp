@@ -11,13 +11,11 @@
 
 using namespace std;
 
-int KP_FileIO::getFileContents(const std::string &filename, std::string &contents)
-{
+int KP_FileIO::getFileContents(const std::string &filename, std::string &contents) {
 	//TODO fill in
 }
 
-int KP_FileIO::writeVectortoFile(const std::string filename,std::vector<std::string> &myEntryVector)
-{
+int KP_FileIO::writeVectortoFile(const std::string filename,std::vector<std::string> &myEntryVector) {
 	//TODO fill in
 }
 
